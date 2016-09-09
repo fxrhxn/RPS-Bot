@@ -1,0 +1,23 @@
+{
+  "name": "chat_bot",
+  "version": "1.0.0",
+  "description": "Chat with any bot, and have a conversation with it.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farhan Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "badwords": "^1.0.0",
+    "colors": "^1.1.2",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "greetings": "^1.0.0",
+    "mongoose": "^4.6.0",
+    "shuffle-array": "^1.0.0",
+    "telebot": "^1.0.6",
+    "telegram-bot-api": "^1.2.0",
+    "watson-developer-cloud": "^2.2.0"
+  }
+}
